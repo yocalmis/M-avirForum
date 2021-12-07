@@ -1,0 +1,2 @@
+C:\Users\yusuf\source\repos\MüşavirForum\MüşavirForum\obj\Release\MüşavirForum.csprojAssemblyReference.cache
+C:\Users\yusuf\source\repos\MüşavirForum\MüşavirForum\obj\Release\MüşavirForum.csproj.CoreCompileInputs.cache
